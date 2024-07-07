@@ -2,7 +2,7 @@
 
 - Main Menu - L2 Edge (version v0.1.19)
 ```
-curl -O https://raw.githubusercontent.com/vinatechpro/titan-install/main/main.sh && chmod u+x main.sh && ./main.sh
+curl -O https://raw.githubusercontent.com/yoakeboy/titan-install/main/main.sh && chmod u+x main.sh && ./main.sh
 ```
 
 - Just For Install (version v0.1.19)
