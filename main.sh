@@ -47,7 +47,7 @@ print_warning() {
 
 # Function to check the OS version
 check_os_version() {
-    if [ "$(lsb_release -rs)" != "23.04" ]; then
+    if [ "$(lsb_release -rs)" != "23.10" ]; then
         print_warning "Your operating system is not Ubuntu 22.04. Please check again."
         read -n 1 -s -r -p "Press any key to return to the menu..."
         return 1
